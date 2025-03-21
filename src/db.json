@@ -1,0 +1,286 @@
+{
+    "objects": [
+      {
+        "id": "a1b2",
+        "categoryId": "a191",
+        "name": "Stage Area",
+        "desc": "A large stage area for hosting events, presentations, or gatherings.",
+        "capacity": 10,
+        "availability": "yes"
+      },
+      {
+        "id": "b2c3",
+        "categoryId": "e928",
+        "name": "Bharat 4104",
+        "desc": "A meeting room with a capacity of 3 people, ideal for small discussions.",
+        "capacity": 3,
+        "availability": "not available"
+      },
+      {
+        "id": "c3d4",
+        "categoryId": "e928",
+        "name": "Mail room",
+        "desc": "A dedicated space for managing office mail and packages.",
+        "capacity": 2,
+        "availability": "yes"
+      },
+      {
+        "id": "d4e5",
+        "categoryId": "d21e",
+        "name": "Nilgiri",
+        "desc": "A meeting room with a capacity of 4 people, perfect for team collaborations.",
+        "capacity": 4,
+        "availability": "not available"
+      },
+      {
+        "id": "e5f6",
+        "categoryId": "d21e",
+        "name": "Pandya",
+        "desc": "A meeting room with a capacity of 4 people, suitable for brainstorming sessions.",
+        "capacity": 4,
+        "availability": "yes"
+      },
+      {
+        "id": "f6g7",
+        "categoryId": "d21e",
+        "name": "Pallava",
+        "desc": "A meeting room with a capacity of 3 people, ideal for focused discussions.",
+        "capacity": 3,
+        "availability": "yes"
+      },
+      {
+        "id": "g7h8",
+        "categoryId": "d21e",
+        "name": "TajMahal",
+        "desc": "A meeting room with a capacity of 3 people, designed for private meetings.",
+        "capacity": 3,
+        "availability": "not available"
+      },
+      {
+        "id": "h8i9",
+        "categoryId": "87b0",
+        "name": "Velha",
+        "desc": "A meeting room with a capacity of 3 people, great for small group discussions.",
+        "capacity": 3,
+        "availability": "yes"
+      },
+      {
+        "id": "i9j0",
+        "categoryId": "58a9",
+        "name": "Reception",
+        "desc": "A central point for inquiries and assistance within the office."
+      },
+      {
+        "id": "j0k1",
+        "categoryId": "87b0",
+        "name": "Elephanta",
+        "desc": "A meeting room with a capacity of 6 people, ideal for larger team meetings.",
+        "capacity": 6,
+        "availability": "yes"
+      },
+      {
+        "id": "k1l2",
+        "categoryId": "a191",
+        "name": "Saka",
+        "desc": "A meeting room with a capacity of 4 people, suitable for collaborative work.",
+        "capacity": 4,
+        "availability": "yes"
+      },
+      {
+        "id": "l2m3",
+        "categoryId": "87b0",
+        "name": "Ellora",
+        "desc": "A meeting room with a capacity of 5 people, perfect for team discussions.",
+        "capacity": 5,
+        "availability": "not available"
+      },
+      {
+        "id": "m3n4",
+        "categoryId": "87b0",
+        "name": "Ajanta",
+        "desc": "A meeting room with a capacity of 3 people, designed for focused work.",
+        "capacity": 3,
+        "availability": "yes"
+      },
+      {
+        "id": "n4o5",
+        "categoryId": "52f1",
+        "name": "Focus Room 4153",
+        "desc": "A quiet room for focused work or private discussions.",
+        "capacity": 1,
+        "availability": "not available"
+      },
+      {
+        "id": "p6q7",
+        "categoryId": "87b0",
+        "name": "Phone Room 4120",
+        "desc": "A private booth for making calls or attending virtual meetings.",
+        "capacity": 1,
+        "availability": "not available"
+      },
+      {
+        "id": "q7r8",
+        "categoryId": "87b0",
+        "name": "Phone Booth 4173",
+        "desc": "A soundproof booth for attending Zoom calls or private conversations.",
+        "capacity": 1,
+        "availability": "yes"
+      },
+      {
+        "id": "r8s9",
+        "categoryId": "e928",
+        "name": "Konark",
+        "desc": "A meeting room with a capacity of 5 people, ideal for team discussions.",
+        "capacity": 5,
+        "availability": "not available"
+      },
+      {
+        "id": "s9t0",
+        "categoryId": "52f1",
+        "name": "Gym",
+        "desc": "A fitness area equipped with machines and weights for exercise.",
+        "capacity": 10,
+        "availability": "yes"
+      },
+      {
+        "id": "t0u1",
+        "categoryId": "87b0",
+        "name": "Meditation Room 4035",
+        "desc": "A peaceful room for meditation and relaxation.",
+        "capacity": 2,
+        "availability": "yes"
+      },
+      {
+        "id": "u1v2",
+        "categoryId": "d21e",
+        "name": "Wellness Room",
+        "desc": "A space for wellness activities and relaxation.",
+        "capacity": 3,
+        "availability": "yes"
+      },
+      {
+        "id": "v2w3",
+        "categoryId": "87b0",
+        "name": "Storage 4060",
+        "desc": "A storage room for keeping supplies and equipment."
+      },
+      {
+        "id": "w3x4",
+        "categoryId": "52f1",
+        "name": "Champaner",
+        "desc": "A meeting room with a capacity of 2 people, ideal for quick discussions.",
+        "capacity": 2,
+        "availability": "yes"
+      },
+      {
+        "id": "x4y5",
+        "categoryId": "a191",
+        "name": "SunderBans",
+        "desc": "A meeting room with a capacity of 4 people, suitable for team collaborations.",
+        "capacity": 4,
+        "availability": "yes"
+      },
+      {
+        "id": "y5z6",
+        "categoryId": "87b0",
+        "name": "Mahabalipuram",
+        "desc": "A meeting room with a capacity of 3 people, designed for brainstorming sessions.",
+        "capacity": 3,
+        "availability": "not available"
+      },
+      {
+        "id": "z6a7",
+        "categoryId": "52f1",
+        "name": "Small Cafeteria",
+        "desc": "A cafeteria for lunch and casual gatherings.",
+        "capacity": 5,
+        "availability": "yes"
+      },
+      {
+        "id": "a7b8",
+        "categoryId": "52f1",
+        "name": "Phone Booth 4063",
+        "desc": "A soundproof booth for attending virtual meetings or private calls.",
+        "capacity": 2,
+        "availability": "yes"
+      },
+      {
+        "id": "b8c9",
+        "categoryId": "52f1",
+        "name": "Manoranjan Room",
+        "desc": "A recreational room for games and entertainment.",
+        "capacity": 3,
+        "availability": "not available"
+      },
+      {
+        "id": "c9d0",
+        "categoryId": "58a9",
+        "name": "IT support",
+        "desc": "A support room for IT-related assistance."
+      },
+      {
+        "id": "d9d0",
+        "categoryId": "d21e",
+        "name": "Phone room 4128",
+        "desc": "A private booth for calls or virtual meetings.",
+        "capacity": 2,
+        "availability": "yes"
+      },
+      {
+        "id": "ab12",
+        "categoryId": "17b0",
+        "name": "washroom2",
+        "desc": "A sanitary facility for Employees."
+      },
+      {
+        "id": "ac12",
+        "categoryId": "17b0",
+        "name": "washroom1",
+        "desc": "A sanitary facility for Employees."
+      },
+      {
+        "id": "ac13",
+        "categoryId": "e753",
+        "name": "Entrance",
+        "desc": "The main entrance to the building."
+      }
+    ],
+    "categories": [
+      {
+        "id": "52f1",
+        "name": "Retail"
+      },
+      {
+        "id": "e928",
+        "name": "Food"
+      },
+      {
+        "id": "58a9",
+        "name": "Services"
+      },
+      {
+        "id": "16be",
+        "name": "Health & Beauty"
+      },
+      {
+        "id": "d21e",
+        "name": "Luxury Goods"
+      },
+      {
+        "id": "a191",
+        "name": "Electronics"
+      },
+      {
+        "id": "87b0",
+        "name": "Fashion"
+      },
+      {
+        "id": "17b0",
+        "name": "Sanitary"
+      },
+      {
+        "id": "e753",
+        "name": "Entrance"
+      }
+    ]
+  }
