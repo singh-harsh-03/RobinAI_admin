@@ -1,6 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Video from './components/Video'
 import Link from "next/link";
 
 const geistSans = Geist({
